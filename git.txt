@@ -1,0 +1,24 @@
+git is a version control system.
+changes in the collabrative version in managed by git.
+it never fully  shares the code of a developer.
+repository:
+it is a folder depositer.
+
+1.introduce yourself to git
+git config --global user.name "shubham"
+git config --global user.email "-@-.com:"
+
+2.project to repository
+git init
+
+git status
+
+
+work 
+
+stage
+
+commit
+git add filename
+git add foldername
+git commit
