@@ -19,6 +19,9 @@ work
 stage
 
 commit
+push
+
 git add filename
 git add foldername
-git commit
+git commit -am"  "
+git remote add origin "url"
